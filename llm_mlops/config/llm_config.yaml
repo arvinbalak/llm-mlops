@@ -1,0 +1,4 @@
+llm:
+  model_name: "gpt2"
+  model_path: "path/to/model"
+  tokenizer_name: "gpt2"
